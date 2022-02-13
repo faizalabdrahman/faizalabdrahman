@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=c0dcec)
 ![](https://img.shields.io/badge/Code-Spring_Boot-informational?style=flat&logo=spring%20boot&logoColor=white&color=48bcd1)
 ![](https://img.shields.io/badge/Code-Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=white&color=48bcd1)
+![](https://img.shields.io/badge/Code-Hibernate-informational?style=flat&logo=Hibernate&logoColor=white&color=48bcd1)
 ![](https://img.shields.io/badge/Tools-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=45b08c)
 ![](https://img.shields.io/badge/Tools-Sourcetree-informational?style=flat&logo=sourcetree&logoColor=white&color=45b08c)
 
