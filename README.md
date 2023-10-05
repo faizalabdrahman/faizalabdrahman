@@ -1,9 +1,16 @@
-**Technology and Tools**
+**Programming Languages**
 ---
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height=30% width=30%/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height=30% width=30%/>
-<img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" height=30% width=30%/>
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height=15% width=15%/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" height=15% width=15%/>
+</p>
+
+**Databases**
+---
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height=15% width=15%/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height=15% width=15%/>
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" height=15% width=15%/>
 </p>
 
 
